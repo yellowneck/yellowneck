@@ -2,7 +2,7 @@
 - 👀 I’m interested in Virtual Reality for Research Purposes, UX and Usability.
 - 🌱 I’m currently learning about ML and AI.
 - 💞️ I’m looking to collaborate on VR Projects?
-- 📫 How to reach me ...
+- 📫 How to reach me: If you're here, you already know :)
 
 <!---
 yellowneck/yellowneck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
